@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple Node Express Hello World App
 
 
@@ -13,3 +14,6 @@
   Go to localhost:3000
 
 ```  
+=======
+# Nodejs-app
+>>>>>>> e1ea635f4f23405d38a683d70b5023aa8ee867d8
